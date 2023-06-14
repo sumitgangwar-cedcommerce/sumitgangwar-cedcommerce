@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sumit Gangwar</h1>
 <h3 align="center">A Passionate Frontend Developer and Code Enthusiast from India.</h3>
