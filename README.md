@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**sumitgangwar-cedcommerce/sumitgangwar-cedcommerce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sumit Gangwar</h1>
+<h3 align="center">A Passionate Frontend Developer and Code Enthusiast from India.</h3>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinghcedcoss&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsingh" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👨‍💻 Software Engineer
+- 🎥 Curious to learn more about React  <!-- - 🌱 Currently learning Svelte. -->
+- 📚 What do I believe? Jack of all, Master of some.
+
+
+<h3 align="left">Languages and Tools:</h3>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsinghcedcosss&show_icons=true&locale=en&layout=compact" alt="rajatsingh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsinghcedcoss&show_icons=true&locale=en" alt="rajatsingh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsinghcedcoss&" alt="rajatsingh" /></p> -->
+
